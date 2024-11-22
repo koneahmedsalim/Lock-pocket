@@ -1,0 +1,16 @@
+# Ignorer les fichiers temporaires de Python
+__pycache__/
+*.pyc
+
+# Clés ou secrets sensibles
+//secret.key
+
+# Fichiers ou dossiers système
+*.DS_Store
+Thumbs.db
+
+instance/
+__pycache__/
+*.sqlite3
+*.log
+
